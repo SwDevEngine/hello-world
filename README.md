@@ -1,3 +1,2 @@
-Hi github,
 
-this is a new development project, and the project is used study progromming. thanks
+this is a branch... will merge into master
